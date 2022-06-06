@@ -68,9 +68,14 @@ main div:nth-child(2)  {
 
 footer img{
     width: 15%;
+   
+
 }
 
+
+
 footer div {
+
     margin-top: 2rem;
     width: 100%;
     display: flex;
